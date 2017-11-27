@@ -1,0 +1,11 @@
+0. TODO
+3 x 3, 5 x 5, 6 x 6, 7 x 7, 8 x 8, 9 x 9
+
+1. TODO
+2D array
+
+2. TODO
+printf()
+
+3. TODO
+init(), draw(), move(), won(),
